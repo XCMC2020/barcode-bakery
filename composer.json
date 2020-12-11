@@ -1,5 +1,5 @@
 {  
-  "name": " XCMC2020/barcode-bakery ",  
+  "name": " XCMC2020/barcodebakery ",  
   "description": "Generates 1D barcodes from a PHP server to a file or HTML document.",
   "keywords": [
         "barcode",
@@ -24,14 +24,14 @@
         "upcext2",
         "upcext5"
     ],
-  "homepage": "https://github.com/XCMC2020/barcode-bakery",  
+  "homepage": "https://github.com/XCMC2020/barcodebakery",  
   "type": "library",
   "license": [
       "Commercial",
       "CC-BY-NC-ND-4.0"
   ],
   "support": {  
-    "source": "https://github.com/XCMC2020/barcode-bakery"  
+    "source": "https://github.com/XCMC2020/barcodebakery"  
   },  
   "authors": [
       {
